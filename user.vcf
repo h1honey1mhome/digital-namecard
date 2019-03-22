@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Scott;Kit;;;
+FN: Kit  Scott 
+ORG:Movati;
+TITLE:People & Culture
+EMAIL;type=INTERNET;type=WORK;type=pref:k.e.scott@live.com
+TEL;type=WORK;type=VOICE:613 700 2861
+item1.ADR;type=WORK;type=pref:;;Kanata;;;Ottawa;Canada
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:linkedin.com/in/katherine-scott01987/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
